@@ -1,0 +1,9 @@
+Package: com.ps.injectbook
+Name: Injectbook
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Inject Tweaks to Facebook.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
